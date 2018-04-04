@@ -1,0 +1,27 @@
+{
+  "name": "mern-project",
+  "version": "1.0.0",
+  "description": "MERN stack demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Briantmorr/mern-project.git"
+  },
+  "author": "Brian Morris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Briantmorr/mern-project/issues"
+  },
+  "homepage": "https://github.com/Briantmorr/mern-project#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
